@@ -11,7 +11,7 @@ This project contains Jupyter notebooks and supporting files for consolidating, 
 ## Getting Started
 
 1. Clone this repository.
-2. Place all required Excel files in the `data_files/` directory (see below). Source file are on gDrive: Sales/Clients/Apex ...
+2. Place all required Excel files in the `data_files/` directory (see below).
 3. Open the notebook in VS Code or Jupyter and run the cells.
 
 ### Required Data Files
@@ -27,7 +27,7 @@ This project contains Jupyter notebooks and supporting files for consolidating, 
 - Fund Ops Transactions 2024.xlsx
 - Fund Ops Transactions 2025.xlsx
 
-> **Note:** The `data_files/` directory is excluded from version control for privacy and size reasons. You must provide these files locally.
+> **Note:** The `data_files/` directory is excluded from version control for privacy and size reasons. You must provide these files locally. The are located on the gDrive in the Sales/Clients/Apex Group/Jersey Migration RFP folder
 
 ## Features
 - Loads and consolidates multiple Excel files into pandas DataFrames.

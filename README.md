@@ -11,7 +11,7 @@ This project contains Jupyter notebooks and supporting files for consolidating, 
 ## Getting Started
 
 1. Clone this repository.
-2. Place all required Excel files in the `data_files/` directory (see below).
+2. Place all required Excel files in the `data_files/` directory (see below). Source file are on gDrive: Sales/Clients/Apex ...
 3. Open the notebook in VS Code or Jupyter and run the cells.
 
 ### Required Data Files

@@ -21,6 +21,9 @@
 - **Impact**: Severe schema gaps; indicates systemic data quality issues or misunderstood join logic.
 - **Source**: findings_first_pass_analysis.pdf, findings_data_consolidation_01.pdf
 
+**Why this could be wrong**
+- 
+
 ---
 
 ### 4. Duplicate Investor IDs
